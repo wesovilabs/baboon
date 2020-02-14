@@ -1,0 +1,9 @@
+.beyond
+.idea
+*.log
+coverage.txt
+build
+dist
+vendor
+test_report
+

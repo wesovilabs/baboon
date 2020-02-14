@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4bbdd50c-0de6-41e2-8c5d-eef3555fc97b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmd/baboon/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/context/context.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/pipeline.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spec/internal/pipeline.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spec/internal/stage.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spec/internal/task.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spec/pipeline.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spec/pipeline/options.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spec/stage/options.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spec/task/options.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task/git/github.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1XfsoUlH2fVLJypi9pmNutLldEL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/internal/pipeline/tasks" />
+      <recent name="$PROJECT_DIR$/internal/pipeline/stage" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/spec/opts" />
+      <recent name="$PROJECT_DIR$/spec/internal" />
+      <recent name="$PROJECT_DIR$/pkg" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/baboon/pkg" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="baboon" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/" />
+      <package value="github.com/wesovilabs/baboon" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build github.com/wesovilabs/go-root/examples" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="baboon" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/examples/pipeline.go" />
+      <package value="github.com/wesovilabs/go-root/examples" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="baboon" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <package value="github.com/wesovilabs/baboon" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build github.com/wesovilabs/go-root/examples" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>direct</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="370" y="210" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581482655512">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="370" y="210" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.800@0.0.1280.800" timestamp="1581482655512" />
+    <state width="1238" height="204" key="GridCell.Tab.0.bottom" timestamp="1581573269959">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="204" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1581573269959" />
+    <state width="1238" height="204" key="GridCell.Tab.0.center" timestamp="1581573269957">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="204" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1581573269957" />
+    <state width="1238" height="204" key="GridCell.Tab.0.left" timestamp="1581573269955">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="204" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1581573269955" />
+    <state width="1238" height="204" key="GridCell.Tab.0.right" timestamp="1581573269958">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="204" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1581573269958" />
+    <state width="1238" height="254" key="GridCell.Tab.1.bottom" timestamp="1581573269944">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="254" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1581573269944" />
+    <state width="1238" height="254" key="GridCell.Tab.1.center" timestamp="1581573269942">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="254" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1581573269942" />
+    <state width="1238" height="254" key="GridCell.Tab.1.left" timestamp="1581573269940">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="254" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1581573269940" />
+    <state width="1238" height="254" key="GridCell.Tab.1.right" timestamp="1581573269943">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="254" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1581573269943" />
+    <state x="295" y="164" width="845" height="538" key="find.popup" timestamp="1581654001160">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="295" y="164" width="845" height="538" key="find.popup/0.0.1280.800@0.0.1280.800" timestamp="1581654001160" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1581572495942">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1581572495942" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/examples/pipeline.go</url>
+          <line>40</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/spec/pipeline.go</url>
+          <line>22</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="GoApplicationRunConfiguration">
+        <watch expression="p" language="go" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
